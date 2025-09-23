@@ -1,4 +1,4 @@
-name = "danmu-api"
+name = "dandan"
 main = "cf_worker.js"
 compatibility_date = "2024-09-21"
 
