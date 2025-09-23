@@ -14,7 +14,7 @@ IP_BLACKLIST_CONFIG = '''{{IP_BLACKLIST_CONFIG}}'''
 # KV 绑定配置
 [[kv_namespaces]]
 binding = "RATE_LIMIT_KV"
-id = "3f2e505906b04bbf85d47b9194706d1d"
+id = "ceb4a1d5138a4b37b44dfc20687e913a"
 
 # wrangler.toml (wrangler v3.88.0^)
 [observability.logs]
