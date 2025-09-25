@@ -30,5 +30,5 @@ bindings = [
 ]
 
 [[migrations]]
-tag = "v6" # 添加AppState，不触碰已存在的RateLimiter
-new_sqlite_classes = ["AppState"]
+tag = "v1" # 初始迁移，创建所有 Durable Object 类
+new_sqlite_classes = ["RateLimiter", "AppState"]
